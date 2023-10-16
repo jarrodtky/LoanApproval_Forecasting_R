@@ -47,11 +47,12 @@
 
 
 ## Contents
-**(1)** [**()**](link)
-- ()
+**(1)** [**loan_dataset.csv**](https://github.com/jarrodtky/LoanApproval_Forecasting_R/blob/bbf9a70aa8d5e56b64e0c14159b995b6bb61eedd/loan_dataset.csv)
+- Loan Approval dataset file in CSV format.
 
-**(2)** [**()_Results Folder**](link) 
-- Contains the main () notebook/file with implementation codes, results, and discussion for the project.
+**(2)** [**LoanApproval_Forecasting_R
+_Results Folder**](https://github.com/jarrodtky/LoanApproval_Forecasting_R/tree/bbf9a70aa8d5e56b64e0c14159b995b6bb61eedd/LoanApproval_Forecasting_R_Results) 
+- Contains the main R notebook/file with implementation codes, results, and discussion for the project.
 
 
 
@@ -73,6 +74,6 @@
 
 
 ## Credits
-- Took inspiration from [()](link)
+- Took inspiration from [Towards Data Science](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
 
 
