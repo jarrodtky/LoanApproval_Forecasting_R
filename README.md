@@ -8,7 +8,7 @@
 
 **Topic:** Loan Approval Status Prediction Using R
 
-**Keywords:** Loan Approval, Machine Learning, Random Forest, Binary Classification, RStudio(R)
+**Keywords:** Loan Approval, Forecasting Analytics, Predictive Modeling, Machine Learning, Random Forest, Binary Classification, RStudio(R)
 
 
 
